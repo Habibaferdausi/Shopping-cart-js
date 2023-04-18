@@ -8,7 +8,7 @@ To build this project, I used HTML, CSS, and JavaScript.
 
 ## 🔗 Link
 
-[Shopping Cart]](https://habibaferdausi.github.io/Shopping-cart-js/)
+[Shopping Cart](https://habibaferdausi.github.io/Shopping-cart-js/)
 
 
 
